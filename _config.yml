@@ -1,15 +1,15 @@
 # Site settings
 # 블로그 제목을 여기에서 수정하세요
-title: YaBBi's Blog
+title: SeungAhhhh's Blog
 # 블로그 설명을 여기에서 수정하세요
-description: 강서구 흑염룡 | Data Scientist | data analyst
+description: 수원화성 가디언 | Data Engineer
 # 블로그 URL을 수정하세요
-url: "https://yabbion.github.io/"
+url: "https://zuzizzuziz1.github.io/"
 github_username: YaBBiOn
 # 블로그 저자 이름을 수정하세요
-author: YaBBi
+author: SeungAh Choi
 # 블로그 이메일 주소를 수정하세요
-email: yabbion93@gmail.com
+email: zuzizzuziz1@gmail.com
 
 # Build settings
 markdown: kramdown
@@ -75,16 +75,134 @@ category_structure:
     subcategories:
       - python
       - java
-      - web-automation
-  data_science:
+
+  computer_science:
 # 블로그 제목을 여기에서 수정하세요
-    title: Data Science
+    title: Computer Science
     subcategories:
-      - data_analysis
-      - machine_learning
-      - deep_learning
-      - data_visualization
-  devops_&_cloud:
+      - hardware
+      - software
+
+  db_&_sql:
+# 블로그 제목을 여기에서 수정하세요
+    title: DataBase & SQL
+    subcategories:
+      - database
+      - cloud DB
+      - RDBMS
+      - SQL
+      - NoSQL
+      - Search Engine
+
+  dev_core_competence:
+# 블로그 제목을 여기에서 수정하세요
+    title: 개발 기본 역량 (Dev Core Competence)
+    subcategories:
+      - 코딩의 기초 원칙
+      - 프로젝트 전략
+      - 데이터 구조, 알고리즘
+      - Git
+      - HTTP, HTTPS
+      - 기타 추가 항목
+      - 인증 방식
+
+  web_framework_&_router:
+# 블로그 제목을 여기에서 수정하세요
+    title: 웹 프레임워크 & 라우터
+    subcategories:
+      - python - flask
+      - python - Django
+      - java - Spring
+
+  sw_testing:
+# 블로그 제목을 여기에서 수정하세요
+    title: Software Testing
+    subcategories:
+      - 기능 테스트
+      - 통합 테스트
+      - 단위 테스트
+      - 회귀 테스트
+
+  cicd_&_virtualization:
+# 블로그 제목을 여기에서 수정하세요
+    title: CI/CD & 가상화(Virtualization)
+    subcategories:
+      - CI
+      - CD
+      - Docker
+      - Kubernetes
+
+  pipeline_monitoring:
+# 블로그 제목을 여기에서 수정하세요
+    title: Pipeline Monitoring
+    subcategories:
+      - Prometheus
+  
+  cloud:
+# 블로그 제목을 여기에서 수정하세요
+    title: Cloud
+    subcategories:
+      - AWS
+      - Google Cloud
+  
+  cluster_computing:
+# 블로그 제목을 여기에서 수정하세요
+    title: Cluster Computing
+    subcategories:
+      - Apache Hadoop
+      - Kafka
+
+  data_warehouse:
+# 블로그 제목을 여기에서 수정하세요
+    title: Data Warehouse
+    subcategories:
+      - Apache Hive
+      - Snowflake
+      - Amazon Redshift
+      - Google Bigquery
+
+  messaging:
+# 블로그 제목을 여기에서 수정하세요
+    title: Messaging
+    subcategories:
+      - RabbitMQ
+      - Apache Active MQ
+
+  ai:
+# 블로그 제목을 여기에서 수정하세요
+    title: Artificial intelligence (AI)
+    subcategories:
+      - ML, DL
+      - AI Math
+  data_preprocessing:
+# 블로그 제목을 여기에서 수정하세요
+    title: Data Preprocessing
+    subcategories:
+      - Batch
+      - Stream
+      - Hybrid
+  data_visualization:
+# 블로그 제목을 여기에서 수정하세요
+    title: Data Visualization
+    subcategories:
+      - Tableau
+      - Graphana
+      - Jupyter Notebook
+  mlops:
+# 블로그 제목을 여기에서 수정하세요
+    title: MLOps
+    subcategories:
+      - Mlflow
+      - Kubeflow
+      - DVC
+  dict:
+# 블로그 제목을 여기에서 수정하세요
+    title: 용어사전
+    subcategories:
+      - DevOps
+      - MLOps
+      - GitOps
+
 
 
 
